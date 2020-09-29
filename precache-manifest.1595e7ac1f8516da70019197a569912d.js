@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8c7bd5f106a64f6fb15f754579681af",
+    "revision": "65a9103584114010e99bd78807f02b68",
     "url": "/fobofriends/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fobofriends/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "069981003b7422c534aa",
+    "revision": "443f8b78ba598f4ff8e7",
     "url": "/fobofriends/static/css/main.2c09749f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fobofriends/static/js/2.c3c2f497.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "069981003b7422c534aa",
-    "url": "/fobofriends/static/js/main.f2c1d9fa.chunk.js"
+    "revision": "443f8b78ba598f4ff8e7",
+    "url": "/fobofriends/static/js/main.f9126910.chunk.js"
   },
   {
     "revision": "9726d491c2927c984e61",
