@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fobofriends/static/css/main.2c09749f.chunk.css",
-    "main.js": "/fobofriends/static/js/main.f9126910.chunk.js",
-    "main.js.map": "/fobofriends/static/js/main.f9126910.chunk.js.map",
+    "main.js": "/fobofriends/static/js/main.f2c1d9fa.chunk.js",
+    "main.js.map": "/fobofriends/static/js/main.f2c1d9fa.chunk.js.map",
     "runtime-main.js": "/fobofriends/static/js/runtime-main.9d515f21.js",
     "runtime-main.js.map": "/fobofriends/static/js/runtime-main.9d515f21.js.map",
     "static/css/2.3c03f26f.chunk.css": "/fobofriends/static/css/2.3c03f26f.chunk.css",
     "static/js/2.c3c2f497.chunk.js": "/fobofriends/static/js/2.c3c2f497.chunk.js",
     "static/js/2.c3c2f497.chunk.js.map": "/fobofriends/static/js/2.c3c2f497.chunk.js.map",
     "index.html": "/fobofriends/index.html",
-    "precache-manifest.fc19cffc07f0b74e9518b69687c723a5.js": "/fobofriends/precache-manifest.fc19cffc07f0b74e9518b69687c723a5.js",
+    "precache-manifest.3dc56798392be40048166f7af6ba3bb3.js": "/fobofriends/precache-manifest.3dc56798392be40048166f7af6ba3bb3.js",
     "service-worker.js": "/fobofriends/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/fobofriends/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.2c09749f.chunk.css.map": "/fobofriends/static/css/main.2c09749f.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.c3c2f497.chunk.js",
     "static/css/main.2c09749f.chunk.css",
-    "static/js/main.f9126910.chunk.js"
+    "static/js/main.f2c1d9fa.chunk.js"
   ]
 }
