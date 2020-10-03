@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test MainPage component snapshot MainPage component 1`] = `
+<div
+  className="tc pa3"
+>
+  <h1
+    id="foo"
+  >
+    ROBOFRIENDS
+  </h1>
+  <div
+    className="counter-container"
+  >
+    <button
+      onClick={[Function]}
+    >
+      0
+    </button>
+  </div>
+  <div
+    className="pa2"
+  >
+    <label
+      htmlFor="robo"
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "padding": "2px",
+        }
+      }
+    >
+      Let's type:
+    </label>
+    <input
+      className="pa3 ba b--green bg-lightest-blue"
+      id="robo"
+      placeholder="Search robot"
+      type="search"
+    />
+  </div>
+  <div
+    style={
+      Object {
+        "border": "solid 5px #000000",
+        "height": "500px",
+        "overflowY": "auto",
+      }
+    }
+  >
+    <div
+      className="tc"
+    >
+      <div
+        className="pa3 grow bg-light-green ma2 tc bw2 br3 shadow-5 dib"
+      >
+        <img
+          alt="robot"
+          src="https://robohash.org/1?size=200x200"
+        />
+        <h2>
+          john
+        </h2>
+        <p>
+          john@gmail.com
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

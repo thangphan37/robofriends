@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot SearchBox component 1`] = `
+<div
+  className="pa2"
+>
+  <label
+    htmlFor="robo"
+    style={
+      Object {
+        "color": "#FFFFFF",
+        "padding": "2px",
+      }
+    }
+  >
+    Let's type:
+  </label>
+  <input
+    className="pa3 ba b--green bg-lightest-blue"
+    id="robo"
+    placeholder="Search robot"
+    type="search"
+  />
+</div>
+`;

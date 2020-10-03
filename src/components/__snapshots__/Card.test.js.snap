@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot Card component 1`] = `
+<div
+  className="pa3 grow bg-light-green ma2 tc bw2 br3 shadow-5 dib"
+>
+  <img
+    alt="robot"
+    src="https://robohash.org/1?size=200x200"
+  />
+  <h2>
+    john
+  </h2>
+  <p>
+    john@gmail.com
+  </p>
+</div>
+`;
