@@ -1,6 +1,10 @@
 import React from 'react';
 
-function SearchBox({onSearchRobots}) {
+type Props = {
+    onSearchRobots(event: React.FormEvent<HTMLInputElement>): void;
+};
+
+const SearchBox: React.FC<Props> = ({onSearchRobots}) => {
   return(
     <div className="pa2">
       <label htmlFor="robo" style={{color: '#FFFFFF', padding: '2px'}}>

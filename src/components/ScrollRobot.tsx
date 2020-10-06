@@ -1,6 +1,10 @@
 import React from 'react';
 
-function ScrollRobot({children}) {
+type Props = {
+    children: JSX.Element
+};
+
+const ScrollRobot: React.FC<Props> = ({children}) => {
   return (
     <div style={
       {
