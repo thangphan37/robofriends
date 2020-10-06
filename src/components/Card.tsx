@@ -1,6 +1,7 @@
 import React from 'react';
+import {Robot} from './CardList';
 
-function Card({robot}) {
+const Card: React.FC<{robot: Robot}> = ({robot}) => {
   const { id, username, email } = robot;
   return(
     <div className="pa3 grow bg-light-green ma2 tc bw2 br3 shadow-5 dib">

@@ -10,14 +10,15 @@ import 'tachyons';
 import * as serviceWorker from './serviceWorker';
 import { searchRobots, requestRobots } from './reducer';
 
-const rootReducers = combineReducers({searchRobots, requestRobots})
+const rootReducers = combineReducers({searchRobots, requestRobots});
 const store = createStore(rootReducers, applyMiddleware(thunk, logger));
+export type RootState = ReturnType<typeof rootReducers>
 
 ReactDOM.render(
   <Provider store={store}>
     <App />
   </Provider>,
-  document.getElementById('root')
+  document.getElementById('root') as HTMLElement
 );
 
 serviceWorker.register();
